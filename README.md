@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikhossen&label=Profile%20views&color=0e75b6&style=flat" alt="anikhossen" /> </p>
 
-- 🔭 I’m currently working on [Redeay](https://redeay.com)
+- 🔭 I’m currently working on [Tollkit](https://tollkit.net)
 
 - 🌱 I’m currently learning **Sheikh Kamal IT Training & Incubation center,Natore**
 
-- 👯 I’m looking to collaborate on [Redeay](https://redeay.com)
+- 👯 I’m looking to collaborate on [Tollkit](https://tollkit.com)
 
-- 📝 I regularly write articles on [https://redeay.com](https://redeay.com)
-
-- 📫 How to reach me **hossenmdanik084@gmail.com +**
+- 📫 How to reach me **mdanikhossen999@gmail.com +**
 
 - ⚡ Fun fact **I think I am a funny**
 
